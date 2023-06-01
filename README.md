@@ -20,3 +20,5 @@ chmod +x mvnw
 ```
 java -jar struktogrammeditor-run
 
+### Mentioning
+This Programm was originally made by Kevin Krummenauer
