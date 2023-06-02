@@ -1,4 +1,4 @@
-# Struktogrammeditor
+# Description
 Visual editor to create nassi-shneiderman diagrams.
 
 ## Contribution  
